@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = aaugeserrano@gmail.com
+	name = albert auge
